@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "http-server -p $PORT ."
+    "start": "http-server ."
   },
   "author": "",
   "license": "ISC",
